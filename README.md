@@ -5,7 +5,7 @@ The Flutter Product Details Screen UI is a beautiful and modern user interface d
 ## Screenshots 📸
 
 <p align="center">
-  <img alt="img" src="https://github.com/mosayyyed/Product-Details-Screen/assets/113109457/c6a8c3be-81e4-492d-90cf-8debfbfabeb7"  height="600" >
+  <img alt="img" src="https://github.com/mosayyyed/Product_Details_Screen/assets/113109457/e0788500-adf8-4ed2-8d04-cf487cfe579f"  height="600" >
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="gif" src="https://github.com/mosayyyed/Product_Details_Screen/assets/113109457/d4008d80-6ed4-418b-b864-df614bc5e4b1" height="600">
 </p>
