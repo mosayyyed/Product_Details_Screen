@@ -11,11 +11,6 @@ The Flutter Product Details Screen UI is a beautiful and modern user interface d
   <img alt="gif" src="https://github.com/mosayyyed/flutter_product_details_screen/assets/113109457/1abaa57b-caf1-4b53-80d1-ce7ae3297dcc" height="600">
 </div>
 
-
-
-
-
-
 ## Overview ℹ️
 
 The application displays information about the Product along with images, allowing users to explore its features and colors. It provides a seamless user experience with a clean and intuitive user interface.
