@@ -38,9 +38,10 @@ The application is built with responsiveness in mind, ensuring that it adapts se
 
 ## Features ✨
 
-- View product images and details.
-- Select different colors of the product.
-- Add the product to the cart.
+- Look at the pictures of products and see more information about them.
+- Choose your favorite product’s color.
+- Easily add products to your favorites for quick access
+- The chosen products will be integrated into the shopping cart to make the checkout process a breeze.
 
 ## Contributions 🤝
 
