@@ -1,8 +1,7 @@
 # Product Details Screen 📱🛒
 
-The Flutter Product Details Screen UI is a beautiful and modern user interface design for an e-commerce app, entirely built with Flutter.
 ![flutter_product_details_screen](https://github.com/mosayyyed/flutter_product_details_screen/assets/113109457/c127ad3d-56d8-4fbe-b41e-5c9cf8316b1d)
-
+The Flutter Product Details Screen UI is a beautiful and modern user interface design for an e-commerce app, entirely built with Flutter.
 
 ## Screenshots 📸
 
