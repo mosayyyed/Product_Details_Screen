@@ -20,6 +20,13 @@ The Flutter Product Details Screen UI is a beautiful and modern user interface d
 
 The application displays information about the Product along with images, allowing users to explore its features and colors. It provides a seamless user experience with a clean and intuitive user interface.
 
+## Features ✨
+
+- Look at the pictures of products and see more information about them.
+- Choose your favorite product’s color.
+- Easily add products to your favorites for quick access
+- The chosen products will be integrated into the shopping cart to make the checkout process a breeze.
+
 ### Attractive and Modern UI Design 💫
 
 The UI design of this application is visually appealing and modern. It utilizes sleek and elegant components to enhance the user experience, making it engaging and enjoyable to navigate.
@@ -35,13 +42,6 @@ The application is built with responsiveness in mind, ensuring that it adapts se
 2. Navigate to the project directory.
 3. Run `flutter pub get` to install dependencies.
 4. Run `flutter run` to launch the application on your device or simulator.
-
-## Features ✨
-
-- Look at the pictures of products and see more information about them.
-- Choose your favorite product’s color.
-- Easily add products to your favorites for quick access
-- The chosen products will be integrated into the shopping cart to make the checkout process a breeze.
 
 ## Contributions 🤝
 
